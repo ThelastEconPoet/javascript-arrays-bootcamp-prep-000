@@ -37,7 +37,7 @@ var chocolateBars = [
     return array.unshift(element)
   }
   
-  function addElementToEndOfArray() {
+  function addElementToEndOfArray(array,element) {
     
   }
   
